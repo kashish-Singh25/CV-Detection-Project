@@ -263,6 +263,10 @@ Through this project, the following concepts are demonstrated:
 
 ## 👩‍💻 Author
 
+**Niharika**
+
+Github: [@Niharika08hub](https://github.com/Niharika08hub)
+
 **Kashish Singh**
 
 GitHub: [@kashish-Singh25](https://github.com/kashish-Singh25)
