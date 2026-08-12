@@ -188,6 +188,9 @@ The YOLOv8 model will process the input stream and display detected objects with
 
 ![Computer Vision Project](screenshot.png)
 
+![Computer Vision Project](screenshot2.png)
+
+
 ## 🧠 Computer Vision Pipeline
 
 The overall architecture can be summarized as:
